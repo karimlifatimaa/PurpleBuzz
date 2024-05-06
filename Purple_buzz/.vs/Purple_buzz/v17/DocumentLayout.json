@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|c:\\users\\user1\\onedrive\\desktop\\purple_buzz\\purple_buzz\\purple_buzz\\migrations\\20240506210823_createservicestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198811B8-533C-4C03-BED6-D4BEB66CAD35}|Purple_buzz\\Purple_buzz.csproj|solutionrelative:purple_buzz\\migrations\\20240506210823_createservicestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Purple_buzz\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Purple_buzz\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwFQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:15:13.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Purple_buzz\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Purple_buzz\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAH4AAACuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:15:48.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Purple_buzz\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Purple_buzz\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:41:37.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "Purple_buzz\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "Purple_buzz\\Controllers\\PricingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:54:17.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "Purple_buzz\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "Purple_buzz\\Controllers\\WorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:49:33.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Purple_buzz\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Purple_buzz\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAAAIkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:15:22.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Program.cs",
+              "RelativeDocumentMoniker": "Purple_buzz\\Program.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Program.cs",
+              "RelativeToolTip": "Purple_buzz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:25:45.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Purple_buzz\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Purple_buzz\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:36:30.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Purple_buzz\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Purple_buzz\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:41:43.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240506210823_createServicesTable.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Migrations\\20240506210823_createServicesTable.cs",
+              "RelativeDocumentMoniker": "Purple_buzz\\Migrations\\20240506210823_createServicesTable.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Migrations\\20240506210823_createServicesTable.cs",
+              "RelativeToolTip": "Purple_buzz\\Migrations\\20240506210823_createServicesTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:08:24.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Purple_buzz\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Purple_buzz\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:50:24.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Purple_buzz\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Purple_buzz\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:56:26.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Purple_buzz\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Purple_buzz\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:36:38.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Purple_buzz\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Models\\Service.cs",
+              "RelativeToolTip": "Purple_buzz\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:15:23.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "Purple_buzz\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "Purple_buzz\\Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAowKQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:49:38.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "Purple_buzz\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "Purple_buzz\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:54:23.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Purple_buzz\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Purple_buzz\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:16:18.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Purple_buzz\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Purple_buzz\\Purple_buzz\\Purple_buzz\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Purple_buzz\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:15:57.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
