@@ -5,5 +5,6 @@ namespace Purple_buzz.ViewModels
     public class HomeVM
     {
         public List<Service> Services { get; set; }
+        public List<ResentWork> ResentWorks { get; set; }
     }
 }

@@ -84,3 +84,4 @@ C:\Users\User1\OneDrive\Desktop\Purple_buzz\Purple_buzz\Purple_buzz\bin\Debug\ne
 C:\Users\User1\OneDrive\Desktop\Purple_buzz\Purple_buzz\Purple_buzz\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\User1\OneDrive\Desktop\Purple_buzz\Purple_buzz\Purple_buzz\obj\Debug\net6.0\Purple_buzz.csproj.AssemblyReference.cache
 C:\Users\User1\OneDrive\Desktop\Purple_buzz\Purple_buzz\Purple_buzz\obj\Debug\net6.0\Purple_b.FDD72C28.Up2Date
+C:\Users\User1\OneDrive\Desktop\Purple_buzz\Purple_buzz\Purple_buzz\obj\Debug\net6.0\Purple_buzz.sourcelink.json

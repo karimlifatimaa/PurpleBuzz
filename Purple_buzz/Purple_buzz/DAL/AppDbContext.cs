@@ -10,5 +10,6 @@ namespace Purple_buzz.DAL
 
         }
         public DbSet<Service> Services { get; set; }
+        public DbSet<ResentWork> ResentWorks { get; set; }
     }
 }

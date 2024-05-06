@@ -79,10 +79,63 @@ namespace Purple_buzz.Controllers
             //services.Add(service6);
             //services.Add(service7);
             //services.Add(service8);
+
+
+
+            //ResentWork resentWork = new ResentWork()
+            //{
+            //    Name = "Index",
+            //    Description = "njjnsnsj",
+            //    PageUrl = "img/recent-work-01.jpg"
+            //};
+            //ResentWork resentWork2 = new ResentWork()
+            //{
+            //    Name = "Index",
+            //    Description = "njjnsnsj",
+            //    PageUrl = "img/recent-work-02.jpg"
+            //};
+            //ResentWork resentWork3 = new ResentWork()
+            //{
+            //    Name = "Index",
+            //    Description = "njjnsnsj",
+            //    PageUrl = "img/recent-work-03.jpg"
+            //};
+            //ResentWork resentWork4 = new ResentWork()
+            //{
+            //    Name = "Index",
+            //    Description = "njjnsnsj",
+            //    PageUrl = "img/recent-work-04.jpg"
+            //};
+            //ResentWork resentWork5 = new ResentWork()
+            //{
+            //    Name = "Index",
+            //    Description = "njjnsnsj",
+            //    PageUrl = "img/recent-work-05.jpg"
+            //};
+            //ResentWork resentWork6 = new ResentWork()
+            //{
+            //    Name = "Index",
+            //    Description = "njjnsnsj",
+            //    PageUrl = "img/recent-work-06.jpg"
+            //};
+
+
+
             HomeVM homeVM = new HomeVM()
             {
-                Services = _dbContext.Services.ToList()
+                Services = _dbContext.Services.ToList(),
+                ResentWorks=_dbContext.ResentWorks.ToList(),
+                
             };
+
+            //_dbContext.ResentWorks.Add(resentWork);
+            //_dbContext.ResentWorks.Add(resentWork2);
+            //_dbContext.ResentWorks.Add(resentWork3);
+            //_dbContext.ResentWorks.Add(resentWork4);
+            //_dbContext.ResentWorks.Add(resentWork5);
+            //_dbContext.ResentWorks.Add(resentWork6);
+            //_dbContext.SaveChanges();
+
             //_dbContext.Services.Add(service1);
             //_dbContext.Services.Add(service2);
             //_dbContext.Services.Add(service3);
